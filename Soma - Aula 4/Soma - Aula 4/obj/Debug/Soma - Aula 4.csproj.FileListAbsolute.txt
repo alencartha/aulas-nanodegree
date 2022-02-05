@@ -1,0 +1,8 @@
+C:\AulasC\Soma - Aula 4\Soma - Aula 4\bin\Debug\Soma - Aula 4.exe.config
+C:\AulasC\Soma - Aula 4\Soma - Aula 4\bin\Debug\Soma - Aula 4.exe
+C:\AulasC\Soma - Aula 4\Soma - Aula 4\bin\Debug\Soma - Aula 4.pdb
+C:\AulasC\Soma - Aula 4\Soma - Aula 4\obj\Debug\Soma - Aula 4.csproj.AssemblyReference.cache
+C:\AulasC\Soma - Aula 4\Soma - Aula 4\obj\Debug\Soma - Aula 4.csproj.SuggestedBindingRedirects.cache
+C:\AulasC\Soma - Aula 4\Soma - Aula 4\obj\Debug\Soma - Aula 4.csproj.CoreCompileInputs.cache
+C:\AulasC\Soma - Aula 4\Soma - Aula 4\obj\Debug\Soma - Aula 4.exe
+C:\AulasC\Soma - Aula 4\Soma - Aula 4\obj\Debug\Soma - Aula 4.pdb

@@ -1,0 +1,8 @@
+C:\AulasC\Strings - Aula1\Strings - Aula1\bin\Debug\Strings - Aula1.exe.config
+C:\AulasC\Strings - Aula1\Strings - Aula1\bin\Debug\Strings - Aula1.exe
+C:\AulasC\Strings - Aula1\Strings - Aula1\bin\Debug\Strings - Aula1.pdb
+C:\AulasC\Strings - Aula1\Strings - Aula1\obj\Debug\Strings - Aula1.csproj.AssemblyReference.cache
+C:\AulasC\Strings - Aula1\Strings - Aula1\obj\Debug\Strings - Aula1.csproj.SuggestedBindingRedirects.cache
+C:\AulasC\Strings - Aula1\Strings - Aula1\obj\Debug\Strings - Aula1.csproj.CoreCompileInputs.cache
+C:\AulasC\Strings - Aula1\Strings - Aula1\obj\Debug\Strings - Aula1.exe
+C:\AulasC\Strings - Aula1\Strings - Aula1\obj\Debug\Strings - Aula1.pdb
