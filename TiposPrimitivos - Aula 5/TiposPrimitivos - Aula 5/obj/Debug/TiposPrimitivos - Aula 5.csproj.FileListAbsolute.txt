@@ -1,0 +1,8 @@
+C:\AulasC\TiposPrimitivos - Aula 5\TiposPrimitivos - Aula 5\bin\Debug\TiposPrimitivos - Aula 5.exe.config
+C:\AulasC\TiposPrimitivos - Aula 5\TiposPrimitivos - Aula 5\bin\Debug\TiposPrimitivos - Aula 5.exe
+C:\AulasC\TiposPrimitivos - Aula 5\TiposPrimitivos - Aula 5\bin\Debug\TiposPrimitivos - Aula 5.pdb
+C:\AulasC\TiposPrimitivos - Aula 5\TiposPrimitivos - Aula 5\obj\Debug\TiposPrimitivos - Aula 5.csproj.AssemblyReference.cache
+C:\AulasC\TiposPrimitivos - Aula 5\TiposPrimitivos - Aula 5\obj\Debug\TiposPrimitivos - Aula 5.csproj.SuggestedBindingRedirects.cache
+C:\AulasC\TiposPrimitivos - Aula 5\TiposPrimitivos - Aula 5\obj\Debug\TiposPrimitivos - Aula 5.csproj.CoreCompileInputs.cache
+C:\AulasC\TiposPrimitivos - Aula 5\TiposPrimitivos - Aula 5\obj\Debug\TiposPrimitivos - Aula 5.exe
+C:\AulasC\TiposPrimitivos - Aula 5\TiposPrimitivos - Aula 5\obj\Debug\TiposPrimitivos - Aula 5.pdb
