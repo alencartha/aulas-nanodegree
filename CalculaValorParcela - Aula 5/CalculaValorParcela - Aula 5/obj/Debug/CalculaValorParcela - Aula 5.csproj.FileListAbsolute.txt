@@ -1,0 +1,8 @@
+C:\AulasC\CalculaValorParcela - Aula 5\CalculaValorParcela - Aula 5\obj\Debug\CalculaValorParcela - Aula 5.csproj.AssemblyReference.cache
+C:\AulasC\CalculaValorParcela - Aula 5\CalculaValorParcela - Aula 5\obj\Debug\CalculaValorParcela - Aula 5.csproj.SuggestedBindingRedirects.cache
+C:\AulasC\CalculaValorParcela - Aula 5\CalculaValorParcela - Aula 5\obj\Debug\CalculaValorParcela - Aula 5.csproj.CoreCompileInputs.cache
+C:\AulasC\CalculaValorParcela - Aula 5\CalculaValorParcela - Aula 5\bin\Debug\CalculaValorParcela - Aula 5.exe.config
+C:\AulasC\CalculaValorParcela - Aula 5\CalculaValorParcela - Aula 5\bin\Debug\CalculaValorParcela - Aula 5.exe
+C:\AulasC\CalculaValorParcela - Aula 5\CalculaValorParcela - Aula 5\bin\Debug\CalculaValorParcela - Aula 5.pdb
+C:\AulasC\CalculaValorParcela - Aula 5\CalculaValorParcela - Aula 5\obj\Debug\CalculaValorParcela - Aula 5.exe
+C:\AulasC\CalculaValorParcela - Aula 5\CalculaValorParcela - Aula 5\obj\Debug\CalculaValorParcela - Aula 5.pdb
