@@ -1,0 +1,8 @@
+C:\AulasC\Multiplicacao - Aula 5\Multiplicacao - Aula 5\bin\Debug\Multiplicacao - Aula 5.exe.config
+C:\AulasC\Multiplicacao - Aula 5\Multiplicacao - Aula 5\bin\Debug\Multiplicacao - Aula 5.exe
+C:\AulasC\Multiplicacao - Aula 5\Multiplicacao - Aula 5\bin\Debug\Multiplicacao - Aula 5.pdb
+C:\AulasC\Multiplicacao - Aula 5\Multiplicacao - Aula 5\obj\Debug\Multiplicacao - Aula 5.csproj.AssemblyReference.cache
+C:\AulasC\Multiplicacao - Aula 5\Multiplicacao - Aula 5\obj\Debug\Multiplicacao - Aula 5.csproj.SuggestedBindingRedirects.cache
+C:\AulasC\Multiplicacao - Aula 5\Multiplicacao - Aula 5\obj\Debug\Multiplicacao - Aula 5.csproj.CoreCompileInputs.cache
+C:\AulasC\Multiplicacao - Aula 5\Multiplicacao - Aula 5\obj\Debug\Multiplicacao - Aula 5.exe
+C:\AulasC\Multiplicacao - Aula 5\Multiplicacao - Aula 5\obj\Debug\Multiplicacao - Aula 5.pdb
