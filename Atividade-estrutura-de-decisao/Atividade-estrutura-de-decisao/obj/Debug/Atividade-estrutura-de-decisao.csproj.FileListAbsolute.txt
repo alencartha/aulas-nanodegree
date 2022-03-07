@@ -1,0 +1,8 @@
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Atividade-estrutura-de-decisao\Atividade-estrutura-de-decisao\bin\Debug\Atividade-estrutura-de-decisao.exe.config
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Atividade-estrutura-de-decisao\Atividade-estrutura-de-decisao\bin\Debug\Atividade-estrutura-de-decisao.exe
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Atividade-estrutura-de-decisao\Atividade-estrutura-de-decisao\bin\Debug\Atividade-estrutura-de-decisao.pdb
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Atividade-estrutura-de-decisao\Atividade-estrutura-de-decisao\obj\Debug\Atividade-estrutura-de-decisao.csproj.AssemblyReference.cache
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Atividade-estrutura-de-decisao\Atividade-estrutura-de-decisao\obj\Debug\Atividade-estrutura-de-decisao.csproj.SuggestedBindingRedirects.cache
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Atividade-estrutura-de-decisao\Atividade-estrutura-de-decisao\obj\Debug\Atividade-estrutura-de-decisao.csproj.CoreCompileInputs.cache
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Atividade-estrutura-de-decisao\Atividade-estrutura-de-decisao\obj\Debug\Atividade-estrutura-de-decisao.exe
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Atividade-estrutura-de-decisao\Atividade-estrutura-de-decisao\obj\Debug\Atividade-estrutura-de-decisao.pdb
