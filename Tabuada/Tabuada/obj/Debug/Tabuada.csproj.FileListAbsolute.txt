@@ -1,0 +1,8 @@
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Tabuada\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Tabuada\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Tabuada\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.SuggestedBindingRedirects.cache
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Tabuada\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Tabuada\Tabuada\obj\Debug\Tabuada.pdb
