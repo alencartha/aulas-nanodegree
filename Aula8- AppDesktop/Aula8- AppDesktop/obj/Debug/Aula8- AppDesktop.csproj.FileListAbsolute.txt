@@ -1,0 +1,11 @@
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Aula8- AppDesktop\Aula8- AppDesktop\bin\Debug\Aula8- AppDesktop.exe.config
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Aula8- AppDesktop\Aula8- AppDesktop\bin\Debug\Aula8- AppDesktop.exe
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Aula8- AppDesktop\Aula8- AppDesktop\bin\Debug\Aula8- AppDesktop.pdb
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Aula8- AppDesktop\Aula8- AppDesktop\obj\Debug\Aula8- AppDesktop.csproj.AssemblyReference.cache
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Aula8- AppDesktop\Aula8- AppDesktop\obj\Debug\Aula8- AppDesktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Aula8- AppDesktop\Aula8- AppDesktop\obj\Debug\Aula8__AppDesktop.Form1.resources
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Aula8- AppDesktop\Aula8- AppDesktop\obj\Debug\Aula8__AppDesktop.Properties.Resources.resources
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Aula8- AppDesktop\Aula8- AppDesktop\obj\Debug\Aula8- AppDesktop.csproj.GenerateResource.cache
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Aula8- AppDesktop\Aula8- AppDesktop\obj\Debug\Aula8- AppDesktop.csproj.CoreCompileInputs.cache
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Aula8- AppDesktop\Aula8- AppDesktop\obj\Debug\Aula8- AppDesktop.exe
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Aula8- AppDesktop\Aula8- AppDesktop\obj\Debug\Aula8- AppDesktop.pdb
