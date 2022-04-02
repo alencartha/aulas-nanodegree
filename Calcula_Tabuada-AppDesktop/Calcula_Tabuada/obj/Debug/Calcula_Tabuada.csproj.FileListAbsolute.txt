@@ -1,0 +1,11 @@
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Calcula_Tabuada\Calcula_Tabuada\bin\Debug\Calcula_Tabuada.exe.config
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Calcula_Tabuada\Calcula_Tabuada\bin\Debug\Calcula_Tabuada.exe
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Calcula_Tabuada\Calcula_Tabuada\bin\Debug\Calcula_Tabuada.pdb
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Calcula_Tabuada\Calcula_Tabuada\obj\Debug\Calcula_Tabuada.csproj.AssemblyReference.cache
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Calcula_Tabuada\Calcula_Tabuada\obj\Debug\Calcula_Tabuada.csproj.SuggestedBindingRedirects.cache
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Calcula_Tabuada\Calcula_Tabuada\obj\Debug\Calcula_Tabuada.Form1.resources
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Calcula_Tabuada\Calcula_Tabuada\obj\Debug\Calcula_Tabuada.Properties.Resources.resources
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Calcula_Tabuada\Calcula_Tabuada\obj\Debug\Calcula_Tabuada.csproj.GenerateResource.cache
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Calcula_Tabuada\Calcula_Tabuada\obj\Debug\Calcula_Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Calcula_Tabuada\Calcula_Tabuada\obj\Debug\Calcula_Tabuada.exe
+C:\Users\alenc\Desktop\Faculdade\aulas-nanodegree-impacta\Calcula_Tabuada\Calcula_Tabuada\obj\Debug\Calcula_Tabuada.pdb
